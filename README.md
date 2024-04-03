@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jessé
-- 👀 I’m really interested in ddd and automation
-- 🌱 I’m currently learning some ml and getting used to front-end, since my job was always back-end focused
 - 📫 yout can reach through jesse@quatrodconsultoria.com.br
 
 <!---
